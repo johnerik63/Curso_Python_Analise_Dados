@@ -45,7 +45,7 @@ Hoje, compartilho um exercício interessante de 𝐀𝐧á𝐥𝐢𝐬𝐞 𝐄�
 Esse exercício me ajudou a reforçar a importância da visualização de dados para insights rápidos e eficientes. 🎯
 
 > [!NOTE]
-> Para ser redirecionado ao projeto clique aqi 👉 <a href="https://github.com/pedrohenrique3dk/Curso_Python_Analise_Dados/blob/main/.Projeto_01/Case_Unicornios.ipynb"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+> Para ser redirecionado ao projeto clique aqi 👉 <a href="https://github.com/johnerik63/Curso_Python_Analise_Dados/blob/main/.Projeto_01/Case_Unicornios.ipynb"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 > 
 > Algumas imagens dos ráficos feitos nesse case estão abaixo 👇
 
